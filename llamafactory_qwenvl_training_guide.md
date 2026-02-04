@@ -54,6 +54,7 @@ conda create -n llamafactory python=3.11 -y
 conda activate llamafactory
 pip install -e ".[torch,metrics]"
 
+```
 ### Step 1: Launch WebUI
 
 After running `llamafactory-cli webui`, the training interface can be accessed in the browser.
