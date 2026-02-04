@@ -1,8 +1,9 @@
-# Multimodal-LLM-Playground
+## ⚙️ Training Workflow Exploration (LLaMA-Factory)
 
-Hands-on experiments with **Multimodal Large Language Models (MLLMs)**, focusing on **vision-language understanding**, **local deployment**, and **fine-tuning workflows**.
+I explored the training workflow of multimodal large models using **LLaMA-Factory** to understand how fine-tuning systems are structured in practice.
 
-This repository documents my practical exploration of multimodal models such as **Qwen-VL**, including inference and supervised fine-tuning (SFT) using **LLaMA-Factory**.
+Although no full training was performed due to hardware limitations, I completed the environment setup and walked through the end-to-end pipeline, including dataset formatting, training configuration, and interface-based workflow.
+
 
 ---
 
@@ -40,12 +41,11 @@ The model takes an **image + text prompt** and generates a natural language resp
 **Output**
 > "Students are attending a lecture in a university classroom."
 
-### Inference Screenshot
+### Inference Result
 
-![Inference Result] 
-before:
+**Before Optimization**
 <img width="1534" height="572" alt="image" src="https://github.com/user-attachments/assets/83818e08-d68b-48bc-b262-36e1294436d0" />
-after:
+**After Optimization**
 <img width="1338" height="898" alt="image" src="https://github.com/user-attachments/assets/a84527bf-4766-4876-a494-ef7e8188d74f" />
 
 
