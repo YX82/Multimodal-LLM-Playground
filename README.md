@@ -50,6 +50,9 @@ The model takes an **image + text prompt** and generates a natural language resp
 
 
 ---
+## For a more detailed walkthrough of the training system and framework structure, see:
+
+➡️ **[LLaMA-Factory + Qwen-VL Training Guide](llamafactory_qwenvl_training_guide.md)**
 
 ## 💻 Inference Script
 
