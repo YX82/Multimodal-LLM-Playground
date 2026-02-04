@@ -44,7 +44,8 @@ The model takes an **image + text prompt** and generates a natural language resp
 
 ### Inference Screenshot
 
-![Inference Result](images/inference_demo.png)
+![Inference Result](<img width="1412" height="526" alt="837cb0578451fb319bc49e972469d41f" src="https://github.com/user-attachments/assets/bbceb89a-abf7-4bb8-bacf-a3e3acf6b156" />
+)
 
 ---
 
