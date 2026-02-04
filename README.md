@@ -1,6 +1,4 @@
 # Multimodal-LLM-Playground
-Hands-on experiments with multimodal large language models (Qwen-VL) including deployment and SFT fine-tuning
-# Multimodal-LLM-Playground
 
 Hands-on experiments with **Multimodal Large Language Models (MLLMs)**, focusing on **vision-language understanding**, **local deployment**, and **fine-tuning workflows**.
 
@@ -44,8 +42,9 @@ The model takes an **image + text prompt** and generates a natural language resp
 
 ### Inference Screenshot
 
-![Inference Result](<img width="1412" height="526" alt="837cb0578451fb319bc49e972469d41f" src="https://github.com/user-attachments/assets/bbceb89a-abf7-4bb8-bacf-a3e3acf6b156" />
-)
+![Inference Result](<img width="1534" height="572" alt="image" src="https://github.com/user-attachments/assets/83818e08-d68b-48bc-b262-36e1294436d0" />
+)(<img width="1338" height="898" alt="image" src="https://github.com/user-attachments/assets/a84527bf-4766-4876-a494-ef7e8188d74f" />)
+
 
 ---
 
